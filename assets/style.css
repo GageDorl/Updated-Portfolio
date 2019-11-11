@@ -1,0 +1,29 @@
+body{
+    background:#ff8800;
+    color:white;
+}
+nav{
+    background:#6eb5ff
+}
+.container{
+    /* background:#c1aa42; */
+    padding: 10px;
+    height:94%
+}
+.card{
+    background:#6eb5ff;
+    border-radius:7px;
+    color:white;
+    margin:10px 0;
+}
+.card-header{
+    background:#6eb5ff;
+    font-weight:bold;
+    font-size:30px;
+}
+.card-body{
+    background:#7ec5ee
+}
+.card-body:last-of-type{
+    border-radius:0 0 7px 7px;
+}
